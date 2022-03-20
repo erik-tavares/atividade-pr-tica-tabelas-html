@@ -1,0 +1,22 @@
+.style {
+  width: 600px;
+  height: 550px;
+}
+.tamanho {
+  width: 215px;
+  height: 215px;
+}
+.tabela {
+  width: 215px;
+  height: 215px;
+}
+.table {
+  width: 320px;
+  height: 280px;
+}
+a:-webkit-any-link {
+  color: black;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 20px;
+}
